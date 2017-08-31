@@ -14,8 +14,8 @@
  
 
 ### #2 Secure resources (20–25%)
-* **Lab Azure AD https://github.com/dstolts/70-534/blob/master/Labs/AzureADLab.md** 
-* **Lab Creating an Azure AD B2C and Connect an Application https://github.com/dstolts/70-534/blob/master/Labs/AzureADB2CLab.md** 
+* **Lab Azure AD https://github.com/guruskill/70-534/blob/master/Labs/AzureADLab.md** 
+* **Lab Creating an Azure AD B2C and Connect an Application https://github.com/guruskill/70-534/blob/master/Labs/AzureADB2CLab.md** 
 
 ### #3 Design an application storage and data access strategy (5–10%)
 * **Azure Storage Samples https://azure.microsoft.com/en-us/resources/samples/?service=storage** 
@@ -29,14 +29,14 @@
 * **SQL Database Videos https://azure.microsoft.com/en-us/resources/videos/index/?services=sql-database**
 
 ### #4 Design advanced applications (20–25%)
-* **Design Advanced Applications https://github.com/dstolts/70-534/blob/master/Labs/AdvancedAppsLab.md**
+* **Design Advanced Applications https://github.com/guruskill/70-534/blob/master/Labs/AdvancedAppsLab.md**
  
 ### #5 Design Azure Web and Mobile Apps (5–10%)
-* **Creating and Managing a Web App & Services https://github.com/dstolts/70-534/blob/master/Labs/WebAppsLab.md** 
-* **Creating and Managing a Mobile App https://github.com/dstolts/70-534/blob/master/Labs/MobileAppsLab.md**
+* **Creating and Managing a Web App & Services https://github.com/guruskill/70-534/blob/master/Labs/WebAppsLab.md** 
+* **Creating and Managing a Mobile App https://github.com/guruskill/70-534/blob/master/Labs/MobileAppsLab.md**
 
 #### Azure AD
-* **Creating and Managing a Mobile App https://github.com/dstolts/70-534/blob/master/Labs/MobileAppsLab.md** 
+* **Creating and Managing a Mobile App https://github.com/guruskill/70-534/blob/master/Labs/MobileAppsLab.md** 
 * **Net Calling a web API in a web app using Azure AD and OpenID Connect https://azure.microsoft.com/en-us/resources/samples/active-directory-dotnet-webapp-webapi-openidconnect/** 
 * **.NET Integrating a web app with Azure AD using WS-Federation https://azure.microsoft.com/en-us/resources/samples/active-directory-dotnet-webapp-wsfederation/** 
 * **Java Integrating Azure AD into a Java web application https://azure.microsoft.com/en-us/resources/samples/active-directory-java-webapp-openidconnect/**
@@ -78,9 +78,9 @@ This lab provides the links to create an Azure AD B2C directory, a sample applic
     https://docs.microsoft.com/en-us/azure/active-directory-b2c/active-directory-b2c-devquickstarts-native-dotnet
 
 ### #6 Design a management, monitoring, and business continuity strategy (20–25%)
-* **Azure IaaS monitoring with OMS https://github.com/dstolts/70-534/blob/master/Labs/06-Monitoring-Azure-Automation.md** 
-* **Create an alert rule on a metric with the Azure portal https://github.com/dstolts/70-534/blob/master/Labs/06-Monitoring-Create-Alerts.md**  
-* **Azure Automation Account https://github.com/dstolts/70-534/blob/master/Labs/06-Monitoring-Azure-Automation.md** 
+* **Azure IaaS monitoring with OMS https://github.com/guruskill/70-534/blob/master/Labs/06-Monitoring-Azure-Automation.md** 
+* **Create an alert rule on a metric with the Azure portal https://github.com/guruskill/70-534/blob/master/Labs/06-Monitoring-Create-Alerts.md**  
+* **Azure Automation Account https://github.com/guruskill/70-534/blob/master/Labs/06-Monitoring-Azure-Automation.md** 
 * **Replicate Hyper-V virtual machines (without VMM) to Azure using Azure Site Recovery with the Azure portal https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-hyper-v-site-to-azure**
 * **Replicate physical machines to Azure by using Site Recovery https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-physical-servers-to-azure** 
 * **My first graphical runbook https://docs.microsoft.com/en-us/azure/automation/automation-first-runbook-graphical** 
