@@ -209,7 +209,7 @@ Rather than use the Azure Portal to create the services, you’ll leverage an Az
 
 To get the lab files navigate to 
 
-http:// rebrand.ly/70-534-AdvAppsLab
+http://rebrand.ly/70-534-AdvAppsLab
 
 and save the downloaded file. Copy the file to a directory of your choice on your local machine, and extract the contents.
 
