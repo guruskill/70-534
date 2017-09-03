@@ -3,7 +3,7 @@
 ## Key Information
 ### Q: Do I need to do all the labs?
 **A:** No, however, as you do more labs, you strongly increase your likelihood of passing the exam! Target minimum of 2-3 per session, maybe a couple more for the big target areas (20-25% topics)
-* **Videos of the NYC event on 6/2017 will be made available online soon; a link will be posted here.**
+* **Videos of the NYC event on 6/2017 can be found here: http://itproguru.com/expert/2017/07/70-534-azure-certification-jump-start-architecting-azure-solutions-event-series-content-v2017-06/**
 * **Mark Grimes @ MSFT Certification Exam Overview 70-534 https://mva.microsoft.com/en-US/training-courses/certification-exam-overview-70534-architecting-microsoft-azure-solutions-17406**
 * **Some Lab links you may have to click on “How To” in the left Navigation pane to get to the step-by-step**
 
