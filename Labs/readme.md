@@ -104,4 +104,7 @@ This lab provides the links to create an Azure AD B2C directory, a sample applic
 * **Patterns for deploying resources: https://docs.microsoft.com/en-us/azure/azure-resource-manager/best-practices-resource-manager-design-templates**
 * **Deploy resources with Resource Manager templates and Azure PowerShell https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-template-deploy** 
 
+### Containers
+* **Create your first container https://blogs.technet.microsoft.com/canitpro/2017/08/02/step-by-step-first-steps-with-azure-container-services/
+* ** More ways to create containers https://docs.microsoft.com/en-us/azure/container-instances/ 
 
