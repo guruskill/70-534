@@ -51,7 +51,7 @@ This lab provides the links to create an Azure AD B2C directory, a sample applic
 
 * **Create an Azure AD B2C directory**
 
-    Below is a link to tutorial on how to create an Azure AD B2C directory from the azure documentation site:
+Below is a link to tutorial on how to create an Azure AD B2C directory from the azure documentation site:
 
     https://docs.microsoft.com/en-us/azure/active-directory-b2c/active-directory-b2c-get-started
 
@@ -97,6 +97,7 @@ This lab provides the links to create an Azure AD B2C directory, a sample applic
 
 
 ### #7 Architect an Azure Compute infrastructure (10–15%)
+* **Create Infrastructure - https://docs.microsoft.com/en-us/azure/virtual-machines/windows/ 
 * **Deploy Templates – Portal https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-template-deploy-portal** 
 * **Resize a Windows VM https://docs.microsoft.com/en-us/azure/virtual-machines/windows/resize-vm** 
 * **Creating and Updating Resources in one ARM Template based deployment: https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-update**
