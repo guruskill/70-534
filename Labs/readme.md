@@ -10,6 +10,8 @@
 **Case Study Labs: http://aka.ms/534prep** 
 **Step-By-Step Labs:** 
 ### #1 Design Azure Resource Manager (ARM) networking (5–10%)
+vnet-to-vnet lab https://github.com/michaelsrichter/70534ExamPrep/tree/master/Labs/vnet-to-vnet
+point-to-site lab https://github.com/michaelsrichter/70534ExamPrep/tree/master/Labs/point-to-site
 * **Create a virtual network using PowerShell https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-create-vnet-arm-ps Create a virtual network using the Azure CLI  https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-create-vnet-arm-cli** 
 * **Create network security groups using the Azure portal https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-create-nsg-arm-pportal**
 * **Create network security groups using PowerShell https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-create-nsg-arm-ps**
