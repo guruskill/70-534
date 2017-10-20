@@ -50,7 +50,6 @@
 This lab provides the links to create an Azure AD B2C directory, a sample application and connect that application to the directory for authentication.  There are several choices for the application so you can choose the one that makes the most sense to you.
 
 * **Create an Azure AD B2C directory**
-
 Below is a link to tutorial on how to create an Azure AD B2C directory from the azure documentation site:
 
     https://docs.microsoft.com/en-us/azure/active-directory-b2c/active-directory-b2c-get-started
@@ -108,4 +107,8 @@ Below is a link to tutorial on how to create an Azure AD B2C directory from the 
 ### Containers
 * **Create your first container https://blogs.technet.microsoft.com/canitpro/2017/08/02/step-by-step-first-steps-with-azure-container-services/
 * ** More ways to create containers https://docs.microsoft.com/en-us/azure/container-instances/ 
+
+### More Labs and Resources
+More Labs https://certprep.azurewebsites.net/
+Docs and Labs http://docs.microsoft.com 
 
